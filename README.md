@@ -17,10 +17,10 @@ Welcome to the Ivy Personal Webpage repository! This project presents a straight
 
 🛠️ This project harnesses the power of several technologies to bring Ivy's vision to life:
 
-- HTML: Structure and layout of the webpage. ![HTML Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg){ width=15 }
-- CSS: Styling and design enhancements to create an aesthetically pleasing experience. ![CSS Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg){ width=15 }
-- JavaScript: Adding interactivity and dynamic elements for a seamless user experience. ![JavaScript Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg){ width=15 }
-- jQuery: Simplifying DOM manipulation and event handling. ![jQuery Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg){ width=15 }
+- ![HTML Logo](https://img.icons8.com/color/48/000000/html-5--v1.png) HTML
+- ![CSS Logo](https://img.icons8.com/color/48/000000/css3.png) CSS
+- ![JavaScript Logo](https://img.icons8.com/color/48/000000/javascript--v1.png) JavaScript
+- ![jQuery Logo](https://img.icons8.com/ios-filled/50/000000/jquery.png) jQuery
 
 ## Usage
 
