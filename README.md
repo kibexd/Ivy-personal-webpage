@@ -26,6 +26,10 @@ Welcome to the Ivy Personal Webpage repository! This project presents a straight
 
 🔍 To experience Ivy's personal webpage, simply open the `index.html` file in your web browser. Navigate through the different sections using the provided links to learn more about Ivy and her journey. Share the webpage with others who might be interested in Ivy's story and achievements.
 
+## Access Ivy's Website
+
+You can access Ivy's personal webpage by clicking [here](https://ivyy.netlify.app/).
+
 ## Contributing
 
 🤝 Your contributions to enhancing Ivy's webpage are highly valued! Whether it's refining the design, adding new features, or fixing bugs, your input can help make this project even better. Feel free to submit pull requests with your ideas and improvements.
