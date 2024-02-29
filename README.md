@@ -2,6 +2,10 @@
 
 Welcome to the Ivy Personal Webpage repository! This project presents a straightforward webpage dedicated to Ivy, the Instagram model, fashion designer, and entrepreneur. It features sections for the homepage, about Ivy, her work, and contact details.
 
+## Access Ivy's Website
+
+You can access Ivy's personal webpage by clicking [here](https://ivyy.netlify.app/).
+
 ## Introduction
 
 ✨ Ivy's personal webpage serves as a window into her world, offering visitors a glimpse into her life, passions, and achievements. From captivating visuals to concise content, this webpage aims to engage and inform visitors about Ivy's journey in the fashion industry.
@@ -24,11 +28,7 @@ Welcome to the Ivy Personal Webpage repository! This project presents a straight
 
 ## Usage
 
-🔍 To experience Ivy's personal webpage, simply open the `index.html` file in your web browser. Navigate through the different sections using the provided links to learn more about Ivy and her journey. Share the webpage with others who might be interested in Ivy's story and achievements.
-
-## Access Ivy's Website
-
-You can access Ivy's personal webpage by clicking [here](https://ivyy.netlify.app/).
+🔍 To experience Ivy's personal webpage, simply open the `Home.html` file in your web browser. Navigate through the different sections using the provided links to learn more about Ivy and her journey. Share the webpage with others who might be interested in Ivy's story and achievements.
 
 ## Contributing
 
