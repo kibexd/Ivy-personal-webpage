@@ -1,3 +1,5 @@
+[![Screenshot 3](https://github.com/kibexd/First-Repo/raw/main/Screenshot%20from%202024-02-29%2022-59-24.png)](https://github.com/kibexd/First-Repo/blob/main/Screenshot%20from%202024-02-29%2022-59-24.png)
+
 # Ivy Personal Webpage
 
 Welcome to the Ivy Personal Webpage repository! This project presents a straightforward webpage dedicated to Ivy, the Instagram model, fashion designer, and entrepreneur. It features sections for the homepage, about Ivy, her work, and contact details.
@@ -25,6 +27,8 @@ You can access Ivy's personal webpage by clicking [here](https://ivyy.netlify.ap
 - ![CSS Logo](https://img.icons8.com/color/48/000000/css3.png) CSS
 - ![JavaScript Logo](https://img.icons8.com/color/48/000000/javascript--v1.png) JavaScript
 - ![jQuery Logo](https://img.icons8.com/ios-filled/50/000000/jquery.png) jQuery
+
+[![Coding GIF](https://github.com/kibexd/First-Repo/raw/main/coding.gif)](https://github.com/kibexd/First-Repo/blob/main/coding.gif)
 
 ## Usage
 
